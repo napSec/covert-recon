@@ -1,6 +1,6 @@
 # Covert-Recon
 
-# Covert.sh - Covert NMAP Port Scan Script
+# Covert NMAP Port Scan Script
 
 This Bash script provides a covert NMAP port scanning option to allow. Users can enter the target IP address or hostname, choose an output format (text, CSV, or XML), and specify a name for the output file. 
 
